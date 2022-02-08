@@ -71,6 +71,14 @@ class FileStorage:
                 return object
             return None
 
+    def get_login(self, cls=None, mail=None, pwd=None):
+        """Retrive an object based on the ID"""
+        new_dict = self.all()
+        for object in new_dict.values():
+            if object.mail == mail and object.password == pwd:
+                return object
+            return None
+
     def count(self, cls=None):
         """Count the number of objects in storage"""
         count = 0
