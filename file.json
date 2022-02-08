@@ -1,0 +1,51 @@
+{"User.4c4e75b9-c95c-4b4a-bdcf-6dc4caf32590":{
+  "id": "4c4e75b9-c95c-4b4a-bdcf-6dc4caf32590",
+  "mail": "starkiller@tatooine.com",
+  "password": "starkiller0987",
+  "name": "Anakin Skywalker",
+  "gender": "male",
+  "Birth date": "unknown",
+  "created_at": "2022-02-01T09:20:47.035Z",
+  "updated_at": "2020-02-01T09:20:47.035Z"
+},
+"User.d11b1f5f-a442-4f29-bc32-77c080f8de25":
+{
+  "id": "d11b1f5f-a442-4f29-bc32-77c080f8de25",
+  "mail": "theprincess@naboo.com",
+  "password": "theprincess0987",
+  "name": "¨Padme Amidala",
+  "gender": "female",
+  "Birth date": "unknown",
+  "created_at": "2020-11-03T09:20:47.035Z",
+  "updated_at": "2020-11-03T09:20:47.035Z"
+},
+"User.01ce1790-f433-4595-a0d6-b4429a9e17eb":
+{
+  "id": "01ce1790-f433-4595-a0d6-b4429a9e17eb",
+  "mail": "ikissmysister@tatooine.com",
+  "password": "ikissmysister1234",
+  "name": "Luke Skywalker",
+  "gender": "male",
+  "created_at": "2020-11-04T09:22:47.035Z",
+  "updated_at": "2020-11-04T09:22:47.035Z"
+},
+"User.d426f2cf-d3a2-4b79-a8f8-1d586d0423fd":
+{
+  "id": "d426f2cf-d3a2-4b79-a8f8-1d586d0423fd",
+  "mail": "theotherpincess@naboo.com",
+  "password": "theotherpincess1234",
+  "name": "Leia Skywalker",
+  "gender": "female",
+  "created_at": "2020-11-04T09:22:47.035Z",
+  "updated_at": "2020-11-04T09:22:47.035Z"
+},
+"User.t826f2cf-d3a2-4c79-a9d9-5a676f1267zg":
+{
+  "id": "t826f2cf-d3a2-4c79-a9d9-5a676f1267zg",
+  "mail": "ikillmyfather@naboo.com",
+  "password": "ikillmyfather456",
+  "name": "Kilo Skywalker",
+  "gender": "male",
+  "created_at": "2020-11-05T10:22:47.035Z",
+  "updated_at": "2020-11-05T10:22:47.035Z"
+}}
